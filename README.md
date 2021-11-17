@@ -1,5 +1,5 @@
 # Bacterial-identification-based-on-Raman-spectra-and-Deeplearning
-resourse for "Rapid and accurate identification of pathogenic bacteria at the single-cell level using laser tweezers Raman spectroscopy and deep learning" 
+Data for "Rapid and accurate identification of pathogenic bacteria at the single-cell level using laser tweezers Raman spectroscopy and deep learning" 
 
 The test data is randomly divided test set, we show the average spectra of each species.
 
